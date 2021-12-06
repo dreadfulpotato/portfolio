@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+ color: #;
+ text-align: ;
+ font style: Corbel;
+    width: auto;
+    height: 191px;
+    background-color: #661D21;
+    color: #FFFFFF;
+    font-family: Corbel;
+    font-size: 20px;
+    text-shadow: 4px 4px 7px #000000;
+}
+p {
+ background-color: #;
+ color: #;
+ text-align: ;
+ border: ;
+}body {
+    background: url(Background.png);
+
+no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+crazy {
+    padding-top: 14px;
+}
+header {
+    background-image: url(RedHead.png);
+    background-position: center center;
+}
+carousel {
+}
+.crazy {
+}
